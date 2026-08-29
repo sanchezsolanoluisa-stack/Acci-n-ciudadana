@@ -1,0 +1,16 @@
+{
+  "name": "Acción Ciudadana Ambiental",
+  "short_name": "Acción Ambiental",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b4332",
+  "icons": [
+    {
+      "src": "CAS.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
